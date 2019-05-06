@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/myWebsite-parent/myWebsite-parent.iml" filepath="$PROJECT_DIR$/myWebsite-parent/myWebsite-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myWebsite-parent/mywebsiteAdmin/mywebsiteAdmin.iml" filepath="$PROJECT_DIR$/myWebsite-parent/mywebsiteAdmin/mywebsiteAdmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myWebsite-parent/mywebsiteDao/mywebsiteDao.iml" filepath="$PROJECT_DIR$/myWebsite-parent/mywebsiteDao/mywebsiteDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myWebsite-parent/mywebsiteModel/mywebsiteModel.iml" filepath="$PROJECT_DIR$/myWebsite-parent/mywebsiteModel/mywebsiteModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myWebsite-parent/mywebsiteService/mywebsiteService.iml" filepath="$PROJECT_DIR$/myWebsite-parent/mywebsiteService/mywebsiteService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myWebsite-parent/mywebsiteWeb/mywebsiteWeb.iml" filepath="$PROJECT_DIR$/myWebsite-parent/mywebsiteWeb/mywebsiteWeb.iml" />
+    </modules>
+  </component>
+</project>
